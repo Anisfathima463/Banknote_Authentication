@@ -1,1 +1,3 @@
-# Banknote_Authentication
+1.GITHUB ACCOUNT
+2.PYCHARM IDE
+3.JUPITER NOTEBOOK
